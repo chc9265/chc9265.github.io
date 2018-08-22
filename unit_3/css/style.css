@@ -5,8 +5,7 @@
 </head> 
 <body>
     <h1>How long will it take Chris to finish 5 lbs of gummy bears?</h1>
-    <p>Gummies</p>
-          <img src="images/chrisgummy.jpg">
+    <p>Gummies consumption tracker</p>
     <p>We are taking bets!</p>
   </body>
 body {
@@ -22,3 +21,4 @@ hr {
 p {
   font-size: 22px;
 }
+         <img src="images/chrisgummy.jpg">
