@@ -7,12 +7,11 @@
     <h1>How long will it take Chris to finish 5 lbs of gummy bears?</h1>
     <p>Gummies</p>
           <img src="images/chrisgummy.jpg">
-    <p>We are taking bets</p>
+    <p>We are taking bets!</p>
   </body>
-
 body {
   text-align: center;
-  background: url("http://i.imgur.com/q0FaaAk.jpg");
+  background: url("images/chrisgummy.jpg");
   background-size: cover; 
   color: #fff;
   font-family: Helvetica;
