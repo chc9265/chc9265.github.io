@@ -1,3 +1,4 @@
+ @import url('https://fonts.googleapis.com/css?family=Crimson+Text');
  <!doctype html>
 <html>
 <head>
@@ -13,7 +14,7 @@ body {
   background: url("images/chrisgummy.jpg");
   background-size: cover; 
   color: #fff;
-  font-family: Helvetica;
+  font-family: 'Crimson Text', serif;
 }
 hr {
   width: 200px;
