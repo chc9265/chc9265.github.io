@@ -1,23 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
- <!doctype html>
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <html>
-</head> 
-<body>
-    <h1>How long will it take Chris to finish 5 lbs of gummy bears?</h1>
-    <p>Gummies consumption tracker</p>
-    <p>We are taking bets!</p>
-  </body>
-body {
-  text-align: center;
-  background: url("images/chrisgummy.jpg");
-  background-size: cover; 
-  color: #fff;
-  font-family: 'Gloria Hallelujah', cursive;
-hr {
-  width: 200px;
+@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+
+h1 {
+	text-align: center;
+	font-family: 'Mystery Quest', cursive;
 }
-p {
-  font-size: 22px;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
 }
-         <img src="images/chrisgummy.jpg">
+strong {
+	font-variant: small-caps;
+}
